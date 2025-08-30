@@ -1,5 +1,5 @@
 # Sketchy Trainer
-   Sketchy Trainer was created with a clear and simple goal: to make learning Sketchware Pro easier, faster, and more accessible through high-quality video tutorials.
+   Sketchy Trainer was created with a clear and simple goal: to make learning Sketchware Pro easier, faster, and more accessible through high-quality video tutorials.
 
    As many Sketchware Pro users searched across scattered sources for reliable learning materials, Sketchy Trainer emerged as a solution—a streamlined app that connects directly to our YouTube channel, offering organized, focused lessons without distractions or unnecessary complexity.
 
@@ -48,4 +48,4 @@
 
    Sketchy Trainer isn’t just another video app—it’s a focused effort to create a meaningful, accessible, and community-driven learning companion for Sketchware Pro users. By combining simplicity, clarity, and the power of video, we hope to inspire learners at every level to grow, create, and achieve more.
 
-   Thank you for being part of this journey. Your support and feedback continue to shape the future of Sketchy Trainer.
+   _Thank you for being part of this journey. Your support and feedback continue to shape the future of Sketchy Trainer._
